@@ -364,7 +364,7 @@ If you found this work useful to you, please our paper:
 
 ```
 @article{XXX,
-  title={MetaPKI: Meta-learning based Inductive Logistic Matrix Completion for Prediction of Kinase Inhibitors},
+  title={Meta-learning based Inductive Logistic Matrix Completion for Prediction of Kinase Inhibitors},
   author={XXX},
   journal={XXX},
   year={2022}
